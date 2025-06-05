@@ -1,7 +1,10 @@
-# Readme template
 
-Brief intro
+# Målgruppsanalyser Socialtjänstens omställning
 
-This work has been funded by
+This work has been funded by Sveriges Kommuner och Regioner (SKR)
 
-All questionnaires and analyses are in Swedish. Data is available in the /data folder
+All questionnaires and analyses are in Swedish.
+
+
+
+
