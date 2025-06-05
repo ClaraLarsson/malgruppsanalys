@@ -1,0 +1,35 @@
+---
+title: "Indikatorer"
+title-block-banner: "#009ca6"
+title-block-banner-color: "#f0f0f0"
+---
+
+
+## Indikatorer
+
+I arbetet med målgruppsanalys kan vi ha olika ambitionsnivå och analysmöjligheter – utgå från er kommuns förutsättningar!
+Det kan finnas ett värde i att ha en löpande målgruppsanalys som bygger på ett urval av indikatorer från exempelvis verksamhetssystem, löpande uppföljning och årlig befolkningsstatistik.
+
+Exempel på detta kan vara konsumtion av socialtjänstens insatser och årsmålgrupper för befintliga insatser.
+
+Det kan också finnas behov av djupare målgruppsanalys där vi med kvantitativ eller kvalitativ metod kan undersöka förekomst av riskfaktorer i befolkningen. 
+
+Exempel på detta kan vara att genomföra en enkätundersökning kring föräldraförmåga eller att intervjua ungdomar om livsvillkor.
+
+
+### Verktyg och resurser för analysarbete
+
+![](/analyser.png)
+
+
+
+### Här kan du hitta verktyg som kan vara ett stöd i beräkning av målgruppsvolymer:
+
+
+- [Göteborgs stad: Beräkning av årsmålgrupper](/arsmalgrupp_gbg.xlsx)
+
+- [Exempel på indikatorlista för löpande analys](/arsmalgrupp_gbg.xlsx)
+
+- [Exempel på Personuppgiftsbiträdesavtal för delning av data mellan inomkommunala förvaltningar](/arsmalgrupp_gbg.xlsx)
+
+- [Exempel på enkät för att mäta föräldraförmåga](/arsmalgrupp_gbg.xlsx)

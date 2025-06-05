@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Målgruppsanalys"
+  subtitle: |
+     Ett stödmaterial för beräkning \
+     av målgruppersvolymer i socialtjänsten
+  repo-url: "https://github.com/ClaraLarsson"
+  sidebar:
+    style: floating
+    search: true
+  author: 'Research Institutes of Sweden'
+  date: last-modified
+  date-format: iso
+  chapters:
+  - index.qmd
+  - Introduktion.qmd
+  - Analysmodeller.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-tools: false
+    code-fold: true
+    number-sections: true
+    layout-align: left
+    page-layout: full
+    mainfont: 'Atkinson'
+    linestretch: 1.6
+    theme:
+      - materia
+      - custom.scss
+    css: styles.css
+    link-external-newwindow: true
+    fig-dpi: 96
+    crossref-sec-prefix: "Sektion"
+    toc-title: "Innehållsförteckning"
+    crossref-fig-title: "Figur"
+    crossref-tbl-title: "Tabell"
+    callout-note-title: "Beskrivning"
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: false

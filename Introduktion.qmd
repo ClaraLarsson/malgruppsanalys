@@ -1,0 +1,45 @@
+---
+title-block-banner: "#009ca6"
+title-block-banner-color: "#f0f0f0"
+title: "Introduktion till målgruppsanalys"
+---
+
+
+## Varför målgruppsanalys?
+
+För att socialtjänsten ska  få bättre förutsättningar för omställningen till ett mer planeringsinriktat och förebyggande perspektiv behövs mer kunskap om socialtjänstens målgrupper.
+
+Det finns flera syften med målgruppsanalys:
+
+- Uppskatta volymer och sätta volymmål
+
+- Se om vi träffar rätt med våra insatser
+
+- Skifta perspektiv från verksamhet till målgrupp
+
+
+## Olika angreppssätt
+
+![](/angrepp.png)
+
+## Hur kan vi arbeta med målgruppsanalys?
+
+![](/hur.png)
+
+## Analysmodeller
+
+I arbetet med målgruppsanalys kan vi ha olika ambitionsnivå och analysmöjligheter – utgå från er kommuns förutsättningar!
+Det kan finnas ett värde i att ha en löpande målgruppsanalys som bygger på ett urval av indikatorer från exempelvis verksamhetssystem, löpande uppföljning och årlig befolkningsstatistik.
+
+Exempel på detta kan vara konsumtion av socialtjänstens insatser och årsmålgrupper för befintliga insatser.
+
+Det kan också finnas behov av djupare målgruppsanalys där vi med kvantitativ eller kvalitativ metod kan undersöka förekomst av riskfaktorer i befolkningen. 
+
+Exempel på detta kan vara att genomföra en enkätundersökning kring föräldraförmåga eller att intervjua ungdomar om livsvillkor.
+
+
+### Exempel på verktyg och resurser för analysarbete
+
+![](/analyser.png)
+
+

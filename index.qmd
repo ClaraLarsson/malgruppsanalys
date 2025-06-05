@@ -1,0 +1,39 @@
+---
+title-block-banner: "#009ca6"
+title-block-banner-color: "#f0f0f0"
+format: 
+  html:
+    toc: false
+---
+
+
+# Välkommen till ett stödmaterial för beräkning av målgruppersvolymer i socialtjänsten! 
+
+Detta är ett stödmaterial för dig som arbetar med främjande och förebyggande insatser kopplat till socialtjänsten. Här kan du hitta information om varför det är viktigt att arbeta med målgruppsanalys inom socialtjänsten, olika tillvägagångssätt för att beräkna volymer av socialtjänstens målgrupper samt lokala exempel på målgruppsberäkning och verktyg.
+
+
+
+## Socialtjänstens omställning och målgruppsanalys
+
+Den nya socialtjänstlagen innebär att socialtjänsten ska ha ett förebyggande perspektiv och det ställs också krav på att kommunen ska kunna planera sina insatser för enskilda.
+
+
+
+![](/omstallning.png)
+
+
+**För att kunna planera förebyggande insatser behövs kunskap om socialtjänstens målgrupper:**
+
+- Vilka målgrupper ska socialtjänsten arbeta med?
+- Hur stora är de här målgrupperna i vår kommun?
+- Vad kännetecknar dem? Var i kommunen finns de?
+- Når socialtjänsten målgrupperna idag?
+- Vilken typ av insatser riktas mot målgrupperna idag? Möter dessa insatser målgruppernas behov?
+
+För att kunna svara på frågor om målgrupperna behövs målgruppsanalys och det finns flera möjliga tillvägagångssätt.
+
+
+
+
+
+
