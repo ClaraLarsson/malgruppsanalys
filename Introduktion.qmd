@@ -1,45 +1,77 @@
 ---
 title-block-banner: "#009ca6"
 title-block-banner-color: "#f0f0f0"
-title: "Introduktion till målgruppsanalys"
+title: "Hur kan vi arbeta med målgruppsanalys?"
 ---
   
 
-## Varför målgruppsanalys?
-
-För att socialtjänsten ska  få bättre förutsättningar för omställningen till ett mer planeringsinriktat och förebyggande perspektiv behövs mer kunskap om socialtjänstens målgrupper.
-
-Det finns flera syften med målgruppsanalys:
-
-- Uppskatta volymer och sätta volymmål
-
-- Se om vi träffar rätt med våra insatser
-
-- Skifta perspektiv från verksamhet till målgrupp
-
-
-## Olika angreppssätt
-
-![](/angrepp.png)
-
 ## Hur kan vi arbeta med målgruppsanalys?
+
+För att kunna utveckla ett mer behovsanpassat och förebyggande socialt arbete behöver socialtjänsten god kunskap om sina målgrupper. Det handlar både om att veta vilka grupper som ska prioriteras, och att kunna kvantifiera dessa – alltså uppskatta hur stora de är och hur många som nås av befintliga insatser. Nedan presenteras en process i fyra steg som kan användas som vägledning i detta arbete.
+
+**1. Kartlägg målgrupper - Utgå från uppdrag och behov**
+Börja med att definiera vilka målgrupper socialtjänsten har i uppdrag att arbeta med. Det kan handla om lagstiftningens krav, lokala prioriteringar eller identifierade samhällsutmaningar. Det är grunden för hela analysarbetet.
+
+**2. Identifiera sätt att kvantifiera målgrupperna**
+När målgrupperna är definierade behöver ni hitta sätt att uppskatta deras storlek. Det kan handla om att använda registerdata, statistik, enkäter eller andra informationskällor. Här är det viktigt att anpassa ambitionsnivån efter de resurser och data som finns tillgängliga.
+
+**3. Ta fram analysmodeller**
+Baserat på valda datakällor och analysmöjligheter formuleras analysmodeller som gör det möjligt att kvantifiera målgrupperna på ett systematiskt sätt. Ibland kan detta göras internt, men ofta krävs samverkan med andra aktörer som exempelvis regionen eller skolan.
+
+**4. Använd analysen för att utveckla insatser**
+Slutligen används resultaten för att jämföra den identifierade målgruppen med de insatser som faktiskt finns tillgängliga. Får rätt personer rätt stöd? Saknas något? Behöver insatser skalas upp eller omformas? Genom att anpassa insatsutbudet utifrån målgruppsanalysen kan socialtjänsten bli mer träffsäker och effektiv i sitt förebyggande arbete.
+
+Se bilden nedan som en översiktlig processkarta som illustrerar dessa fyra steg – med stödjande frågor att reflektera över i varje del.
 
 ![](/hur.png)
 
-## Analysmodeller
+## Kartläggning
 
-I arbetet med målgruppsanalys kan vi ha olika ambitionsnivå och analysmöjligheter – utgå från er kommuns förutsättningar!
-Det kan finnas ett värde i att ha en löpande målgruppsanalys som bygger på ett urval av indikatorer från exempelvis verksamhetssystem, löpande uppföljning och årlig befolkningsstatistik.
+- Mölndal
+- Sthlm
 
-Exempel på detta kan vara konsumtion av socialtjänstens insatser och årsmålgrupper för befintliga insatser.
+## Kvantifiering och analys
 
-Det kan också finnas behov av djupare målgruppsanalys där vi med kvantitativ eller kvalitativ metod kan undersöka förekomst av riskfaktorer i befolkningen. 
+I arbetet med målgruppsanalys finns olika nivåer av ambition och tillgång till data. Det viktiga är att utgå från den egna kommunens förutsättningar – både vad gäller kapacitet, tillgång till information och vilka frågor som behöver besvaras. Oavsett nivå kan målgruppsanalys bidra till bättre planering, styrning och utveckling av socialtjänstens förebyggande arbete.
 
-Exempel på detta kan vara att genomföra en enkätundersökning kring föräldraförmåga eller att intervjua ungdomar om livsvillkor.
+**Löpande och indikatorbaserad analys**
 
+En enklare, men värdefull nivå av målgruppsanalys kan bygga på återkommande uppföljning av ett urval indikatorer från tillgängliga källor, såsom verksamhetssystem, statistik från SCB eller annan befolkningsdata. Detta kan ge en löpande bild av utvecklingen i kommunen och bidra till tidig upptäckt av förändringar.
 
-### Exempel på verktyg och resurser för analysarbete
+**Exempel:**
+
+•	Konsumtion av socialtjänstens insatser över tid
+
+•	Årliga målgruppsuppskattningar kopplade till olika insatser
+
+•	Statistisk analys av befolkningsutveckling, socioekonomiska förutsättningar eller skolresultat
+
+**Fördjupad målgruppsanalys**
+
+I vissa fall behövs en mer djupgående analys för att bättre förstå bakomliggande faktorer, behov eller risker i befolkningen. Här kan både kvantitativa och kvalitativa metoder användas för att komplettera statistiken med fördjupad kunskap om levnadsförhållanden och upplevda behov.
+
+**Exempel:**
+
+•	Enkätundersökningar för att kartlägga förekomst av riskfaktorer, exempelvis psykisk ohälsa eller föräldraförmåga
+
+•	Intervjuer eller fokusgrupper med ungdomar om livsvillkor, trygghet och tillgång till stöd
+
+•	Analys av sammansatt data från olika verksamheter för att identifiera komplexa behov
+Kombinerade modeller
+
+Det mest träffsäkra kunskapsunderlaget får man ofta genom att kombinera flera typer av analyser – en grundläggande indikatorbaserad analys kompletterad med mer kvalitativa eller tematiska studier vid behov. På så sätt kan kommunen följa övergripande trender och samtidigt fördjupa förståelsen där det behövs.
+
+**Exempel på verktyg och resurser för analysarbete**
 
 ![](/analyser.png)
+
+## Insatsutveckling
+
+
+
+
+
+
+
 
 

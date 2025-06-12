@@ -9,28 +9,77 @@ format:
 
 # Välkommen till ett stödmaterial för beräkning av målgruppersvolymer i socialtjänsten! 
 
-Detta är ett stödmaterial för dig som arbetar med främjande och förebyggande insatser kopplat till socialtjänsten. Här kan du hitta information om varför det är viktigt att arbeta med målgruppsanalys inom socialtjänsten, olika tillvägagångssätt för att beräkna volymer av socialtjänstens målgrupper samt lokala exempel på målgruppsberäkning och verktyg.
+Detta stödmaterial riktar sig till dig som arbetar med främjande och förebyggande insatser inom eller i samverkan med socialtjänsten. Här får du en introduktion till varför målgruppsanalys är en central del i ett kunskapsbaserat och strategiskt förebyggande arbete. 
 
+Materialet innehåller information om olika metoder för att uppskatta omfattning och sammansättning av socialtjänstens målgrupper, samt konkreta exempel på hur målgruppsberäkningar kan genomföras i en kommunal kontext. Du hittar också användbara verktyg och lokala tillämpningar som kan ge inspiration i det egna arbetet.
 
 
 ## Socialtjänstens omställning och målgruppsanalys
 
-Den nya socialtjänstlagen innebär att socialtjänsten ska ha ett förebyggande perspektiv och det ställs också krav på att kommunen ska kunna planera sina insatser för enskilda.
+Den nya socialtjänstlagen, som träder i kraft 2025, markerar en tydlig förflyttning mot en mer proaktiv, förebyggande och kunskapsbaserad socialtjänst. Syftet med lagändringen är att stärka individens rättigheter, minska behovet av akuta och kostsamma insatser samt främja jämlika livsvillkor genom tidiga och samordnade åtgärder.
 
+I och med lagens nya inriktning får kommunerna ett ökat ansvar att arbeta strukturerat med tidig upptäckt, planering och samverkan – innan problem eskalerar. Det innebär också att socialtjänsten måste kunna planera sina insatser med utgångspunkt i lokala behov och förutsättningar. För att göra detta krävs en god förståelse för vilka målgrupper som socialtjänsten är till för – inte bara på individnivå, utan genom systematiska analyser av grupper, riskfaktorer och behov i befolkningen.
+
+För att kunna planera effektiva och träffsäkra förebyggande insatser behöver vi svar på frågor som:
+
+•	Vilka målgrupper ska socialtjänsten arbeta med?
+
+•	Hur stora är dessa målgrupper i vår kommun?
+
+•	Vad kännetecknar målgrupperna? Var i kommunen finns de?
+
+•	Når socialtjänsten målgrupperna i dagsläget?
+
+•	Vilka typer av insatser riktas mot målgrupperna – och möter dessa insatser målgruppernas behov?
+
+Målgruppsanalyser är avgörande för att besvara dessa frågor. De ger ett kunskapsunderlag för att identifiera behov, utvärdera befintliga insatser, styra resurser och utveckla arbetssätt som bättre motsvarar lokala förutsättningar. På så sätt blir det möjligt att möta intentionerna i den nya lagen – om en mer förebyggande, behovsanpassad och rättssäker socialtjänst.
 
 
 ![](/omstallning.png)
 
+## Varför målgruppsanalys?
 
-**För att kunna planera förebyggande insatser behövs kunskap om socialtjänstens målgrupper:**
+För att socialtjänsten ska få bättre förutsättningar att ställa om till ett mer planeringsinriktat och förebyggande arbetssätt behövs strukturerad och tillförlitlig kunskap om målgruppernas omfattning och sammansättning. Målgruppsanalys är ett konkret verktyg för detta och fyller flera viktiga funktioner i det strategiska arbetet.
 
-- Vilka målgrupper ska socialtjänsten arbeta med?
-- Hur stora är de här målgrupperna i vår kommun?
-- Vad kännetecknar dem? Var i kommunen finns de?
-- Når socialtjänsten målgrupperna idag?
-- Vilken typ av insatser riktas mot målgrupperna idag? Möter dessa insatser målgruppernas behov?
+**Syftet med målgruppsanalys är att:**
 
-För att kunna svara på frågor om målgrupperna behövs målgruppsanalys och det finns flera möjliga tillvägagångssätt.
+•	**Uppskatta volymer och trender** – Hur stora är målgrupperna, och hur förändras de över tid? Detta ger ett underlag för volymmål och strategisk resursfördelning.
+
+•	**Utvärdera träffsäkerhet** – Når vi rätt grupper med rätt insatser? Vilka faller utanför?
+
+•	**Skifta perspektiv** – Från ett inifrån- och verksamhetsstyrt fokus till ett utifrån- och individorienterat perspektiv, där målgruppernas behov blir styrande för hur arbetet utformas.
+
+Målgruppsanalys hjälper till att synliggöra mönster som annars lätt förblir osedda. Det kan handla om att identifiera geografiska skillnader, utsatta grupper som inte nås av insatser eller om att se var behov uppstår tidigt – så att förebyggande arbete kan riktas dit det gör störst nytta.
+Beroende på lokal kontext, tillgång till data och vad man vill undersöka finns olika metoder för att genomföra målgruppsanalyser. Oavsett tillvägagångssätt utgör de en viktig del i att skapa en mer kunskapsbaserad, effektiv och rättvis socialtjänst.
+
+## Olika angreppssätt
+
+När socialtjänsten ska utveckla sitt förebyggande arbete finns det flera sätt att analysera och förstå målgrupperna. Två vanliga ingångar är att antingen utgå från **förekomst av riskfaktorer i befolkningen** eller från **det befintliga insatsutbudet**. Båda angreppssätten har sina styrkor, och kan med fördel kombineras beroende på syftet med analysen och den lokala kontexten.
+
+### Utgå från förekomst av riskfaktorer och behov
+
+Detta angreppssätt innebär att man först identifierar vilka riskfaktorer som socialtjänsten behöver arbeta förebyggande mot – exempelvis ekonomisk utsatthet, obehörighet till gymnasiet eller psykisk ohälsa. Utifrån dessa definieras relevanta målgrupper, och deras **förekomst i befolkningen uppskattas med hjälp av statistik, registerdata eller enkäter**. Detta ger ett kunskapsunderlag för att planera ett **mer behovsanpassat insatsutbud** som motsvarar målgruppernas omfattning och sammansättning.
+
+### Utgå från befintligt insatsutbud
+
+Det andra angreppssättet innebär att man börjar i det som redan görs – socialtjänstens befintliga insatser. Här analyseras varje insats med fokus på **vilken målgrupp den är tänkt att nå**, vilken typ av problematik den syftar till att förebygga och vilka faktorer den påverkar. Därefter **uppskattas med hjälp av statistik, registerdata eller enkäter** hur stor den tänkta målgruppen är, vilket kan jämföras med hur **många som faktiskt nås i dag**. Det kan ge svar på om insatsen behöver utvecklas, skalas upp eller anpassas till fler.
+
+**Syftet med analysen**
+
+Oavsett vilket angreppssätt som används syftar målgruppsanalysen till att:
+
+•	Öka träffsäkerheten i insatserna
+
+•	Synliggöra glapp mellan behov och tillgång
+
+•	Ge bättre grund för beslut om prioriteringar och resursfördelning
+
+•	Stärka det förebyggande perspektivet i linje med nya socialtjänstlagen
+
+Bilden nedan illustrerar dessa två angreppssätt och hur analysprocessen kan se ut – från definition av målgrupper till bedömning av volymer och insatser. Det är naturligtvis också möjligt att ta sig an målgruppsanalysen utifrån båda dessa perspektiv samtidigt.
+
+![](/angrepp.png)
+
 
 
 
