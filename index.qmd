@@ -7,7 +7,7 @@ format:
 ---
 
 
-# Välkommen till ett stödmaterial för beräkning av målgruppersvolymer i socialtjänsten! 
+# Välkommen till ett stödmaterial för beräkning av målgruppsvolymer i socialtjänsten! 
 
 Detta stödmaterial riktar sig till dig som arbetar med främjande och förebyggande insatser inom eller i samverkan med socialtjänsten. Här får du en introduktion till varför målgruppsanalys är en central del i ett kunskapsbaserat och strategiskt förebyggande arbete. 
 

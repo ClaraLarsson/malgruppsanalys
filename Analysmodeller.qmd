@@ -1,38 +1,18 @@
 ---
-title: "Verktyg"
+title: "Stöddokument"
 title-block-banner: "#009ca6"
 title-block-banner-color: "#f0f0f0"
 ---
 
 
-## Verktyg 
-Här kan du hitta verktyg som kan vara ett stöd i beräkning av målgruppsvolymer.
+## Stöddokument 
+Här kan du hitta dokument som kan vara ett stöd i målgruppsanalysen.
 
 
-### Indikatorer 
-
-- [Indikatorer över socialtjänstens målgrupper](/code.html)
-
-
-### Beräkning av målgruppsstorlekar
-
-- [Göteborgs stad: Beräkning av årsmålgrupper](/arsmalgrupp_gbg.xlsx)
-
-
-### Datainsamling
-
-- [Göteborgs stad: Exempel på enkät för att mäta föräldraförmåga](/enkatforaldra.xlsx)
-
-- [Göteborgs stad:Exempel på enkätmissiv](/missiv.xlsx)
-
-
-### Ekonomiska beräkningar
-
-- [Göteborgs stad: Ekonomisk modell för att beräkna vinster av förädlrastöd](https://osf.io/cgfxb/)
-
-
-### Stöddokument
+### Juridiska dokument
 
 - [Exempel på Personuppgiftsbiträdesavtal för delning av data mellan inomkommunala förvaltningar](/arsmalgrupp_gbg.xlsx)
+
+
 
 
