@@ -11,7 +11,7 @@ Här kan du hitta dokument som kan vara ett stöd i målgruppsanalysen.
 
 ### Juridiska dokument
 
-- [Exempel på Personuppgiftsbiträdesavtal för delning av data mellan inomkommunala förvaltningar](/arsmalgrupp_gbg.xlsx)
+- [Exempel på Personuppgiftsbiträdesavtal för delning av data mellan inomkommunala förvaltningar]() *Ska vara länk när klart
 
 
 

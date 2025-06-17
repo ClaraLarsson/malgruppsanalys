@@ -29,7 +29,7 @@ Se bilden nedan som en översiktlig processkarta som illustrerar dessa fyra steg
 
 Ett första steg i målgruppsarbetet är att kartlägga de målgrupper socialtjänsten har. Detta styrs först och främst av de lagrum som reglerar socialtjänstens uppdrag. Dessa lagrum lämnar dock ofta utrymme för tolkning när det gäller konkreta målgrupper. Därför kan det behövas ett lokalt arbete i att dels tolka lagtexten och lagens förarbeten, men också i att inom verksamheten diskutera och avgränsa uppdragens målgrupper utifrån forskning och verksamhetserfarenhet. Här kan det finnas viktig information att hämta från verksamhetens systematiska kvalitetsarbete.
 
-Illustrationen nedan visar ett exempel på kartläggningsprocess från Mölndals stad, som tar utgångspunkt i lagtexter och förarbeten och för att bestämma de grundläggande målgrupperna. För att bryta ner dessa målgrupper i mer operativt relevanta grupper används sedan vägledning från expertmyndigheter, riskfaktorer kopplat till målgruppen samt lokala chefers behov som fpngas in via workshops.
+Illustrationen nedan visar ett exempel på kartläggningsprocess från Mölndals stad, som tar utgångspunkt i lagtexter och förarbeten och för att bestämma de grundläggande målgrupperna. För att bryta ner dessa målgrupper i mer operativt relevanta grupper används sedan vägledning från expertmyndigheter, riskfaktorer kopplat till målgruppen samt lokala chefers behov som fångas in via workshops.
 
 ![](/kartlaggning.png)
 
@@ -110,7 +110,7 @@ Exempel på en visualiserad insatskartläggning:
 ![](/Insatskarta.png)
 En viktig fråga är exempelvis hur väl socialtjänsten når ut med befintliga insatser, här kan det finnas ett behov av att följa upp och kartlägga genomfört arbete för att kunna svara på den frågan.
 
-Här finns ett exempel på en uppföljningsenkät [Uppföljningsenkät]()* SKA VARA LÄNK för ABC-programmet i Göteborgs stad som används för att se hur stort deltagande staden har i insatsen samt hur väl staden når föräldrar med olika bakgrund. Detta kan bidra till en diskussion om hur staden ska prioritera satsningen på fölräldrastöd i stadens olika områden. 
+Här finns ett exempel på en uppföljningsenkät [Uppföljningsenkät]()* SKA VARA LÄNK som kan används för att se hur stort deltagande socialtjänsten har i en insats samt hur väl kommunen når målgrupper med olika bakgrund. Detta kan bidra till en diskussion om hur staden ska prioritera satsningar i kommunens olika områden. 
 
 Om socialtjänsten vid sin insatskartläggning märker gap i verksamheten i förhållande till målgruppernas behov så kan det finnas behov av att implementera kunskapsbaserade insatser eller att utveckla nya insatser för målgruppens behov. 
 
