@@ -110,7 +110,7 @@ Exempel på en visualiserad insatskartläggning:
 ![](/Insatskarta.png)
 En viktig fråga är exempelvis hur väl socialtjänsten når ut med befintliga insatser, här kan det finnas ett behov av att följa upp och kartlägga genomfört arbete för att kunna svara på den frågan.
 
-Här finns ett exempel på en uppföljningsenkät [Uppföljningsenkät]()* SKA VARA LÄNK som kan används för att se hur stort deltagande socialtjänsten har i en insats samt hur väl kommunen når målgrupper med olika bakgrund. Detta kan bidra till en diskussion om hur staden ska prioritera satsningar i kommunens olika områden. 
+Här finns ett exempel på en uppföljningsenkät för föräldraskapsgrupp från Göteborgs Stad [Uppföljningsenkät](https://forms.office.com/Pages/ShareFormPage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUNkFGSU9UVkZLQ0tCT0tHVUQ2Wjc4SlFLNS4u&sharetoken=l5B0x0XyulHf9hDosyOp) som kan används för att se hur stort deltagande socialtjänsten har i en insats samt hur väl kommunen når målgrupper med olika bakgrund. Detta kan bidra till en diskussion om hur staden ska prioritera satsningar i kommunens olika områden. Här finns också ett exempel på [Resultatsammanställning](/Resultatsammanstallning_enkat_foraldraskapsstod.xlsx) och [Tröskelanalys](/Troskelanalys.docx) utifrån enkäten. 
 
 Om socialtjänsten vid sin insatskartläggning märker gap i verksamheten i förhållande till målgruppernas behov så kan det finnas behov av att implementera kunskapsbaserade insatser eller att utveckla nya insatser för målgruppens behov. 
 
