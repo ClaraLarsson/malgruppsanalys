@@ -35,7 +35,7 @@ För att kunna planera effektiva och träffsäkra förebyggande insatser behöve
 Målgruppsanalyser är avgörande för att besvara dessa frågor. De ger ett kunskapsunderlag för att identifiera behov, utvärdera befintliga insatser, styra resurser och utveckla arbetssätt som bättre motsvarar lokala förutsättningar. På så sätt blir det möjligt att möta intentionerna i den nya lagen – om en mer förebyggande, behovsanpassad och rättssäker socialtjänst.
 
 
-![](/omstallning.png)
+![](/Process.png)
 
 ## Varför målgruppsanalys?
 
@@ -50,7 +50,8 @@ För att socialtjänsten ska få bättre förutsättningar att ställa om till e
 •	**Skifta perspektiv** – Från ett inifrån- och verksamhetsstyrt fokus till ett utifrån- och individorienterat perspektiv, där målgruppernas behov blir styrande för hur arbetet utformas.
 
 Målgruppsanalys hjälper till att synliggöra mönster som annars lätt förblir osedda. Det kan handla om att identifiera geografiska skillnader, utsatta grupper som inte nås av insatser eller om att se var behov uppstår tidigt – så att förebyggande arbete kan riktas dit det gör störst nytta.
-Beroende på lokal kontext, tillgång till data och vad man vill undersöka finns olika metoder för att genomföra målgruppsanalyser. Oavsett tillvägagångssätt utgör de en viktig del i att skapa en mer kunskapsbaserad, effektiv och rättvis socialtjänst.
+
+Beroende på lokal kontext, tillgång till data och vad man vill undersöka finns olika metoder för att genomföra målgruppsanalyser. Oavsett tillvägagångssätt utgör de en viktig del i att skapa en mer kunskapsbaserad, effektiv och jämlik socialtjänst.
 
 ## Olika angreppssätt
 
@@ -59,6 +60,12 @@ När socialtjänsten ska utveckla sitt förebyggande arbete finns det flera sät
 ### Utgå från förekomst av riskfaktorer och behov
 
 Detta angreppssätt innebär att man först identifierar vilka riskfaktorer som socialtjänsten behöver arbeta förebyggande mot – exempelvis ekonomisk utsatthet, obehörighet till gymnasiet eller psykisk ohälsa. Utifrån dessa definieras relevanta målgrupper, och deras **förekomst i befolkningen uppskattas med hjälp av statistik, registerdata eller enkäter**. Detta ger ett kunskapsunderlag för att planera ett **mer behovsanpassat insatsutbud** som motsvarar målgruppernas omfattning och sammansättning.
+
+Folhälsomyndigheten ger ett exempel på viktiga faktorer för människans hälsa och hur dessa hänger ihop med hjälp av den så kallde Regnbågsmodellen. [![Regnbågsmodellen](rainbow.png)](https://www.folkhalsomyndigheten.se/om-folkhalsa-och-folkhalsoarbete/tema-folkhalsa/vad-ar-folkhalsa/sociala-bestamningsfaktorer/) 
+
+Dessa faktorer kan utgöra en grund för analysen kring vilka målgrupper som är relevanta att arbeta med.
+
+
 
 ### Utgå från befintligt insatsutbud
 

@@ -12,11 +12,11 @@ För att kunna utveckla ett mer behovsanpassat och förebyggande socialt arbete 
 **1. Kartlägg målgrupper - Utgå från uppdrag och behov**
 Börja med att definiera vilka målgrupper socialtjänsten har i uppdrag att arbeta med. Det kan handla om lagstiftningens krav, lokala prioriteringar eller identifierade samhällsutmaningar. Det är grunden för hela analysarbetet.
 
-**2. Identifiera sätt att kvantifiera målgrupperna**
-När målgrupperna är definierade behöver ni hitta sätt att uppskatta deras storlek. Det kan handla om att använda registerdata, statistik, enkäter eller andra informationskällor. Här är det viktigt att anpassa ambitionsnivån efter de resurser och data som finns tillgängliga.
+**2. Identifiera sätt att uppskatta målgruppernas storlek**
+När målgrupperna är definierade behöver ni hitta sätt att uppskatta deras volym. Det kan handla om att använda registerdata, statistik, enkäter eller andra informationskällor. Här är det viktigt att anpassa ambitionsnivån efter de resurser och data som finns tillgängliga.
 
 **3. Ta fram analysmodeller**
-Baserat på valda datakällor och analysmöjligheter formuleras analysmodeller som gör det möjligt att kvantifiera målgrupperna på ett systematiskt sätt. Ibland kan detta göras internt, men ofta krävs samverkan med andra aktörer som exempelvis regionen eller skolan.
+Baserat på valda datakällor och analysmöjligheter formuleras analysmodeller som gör det möjligt att uppskatta målgruppernas storlek på ett systematiskt sätt. En analysmodell kan exempelvis vara att beräkna uppskattade målgruppsvolymer i befolkningen utifrån en enkät om riskfaktorer eller utifrån återaktualiserinsgrad inom socialtjänsten. Ibland kan detta göras internt, men ofta krävs samverkan med andra aktörer som exempelvis regionen eller skolan.
 
 **4. Använd analysen för att utveckla insatser**
 Slutligen används resultaten för att jämföra den identifierade målgruppen med de insatser som faktiskt finns tillgängliga. Får rätt personer rätt stöd? Saknas något? Behöver insatser skalas upp eller omformas? Genom att anpassa insatsutbudet utifrån målgruppsanalysen kan socialtjänsten bli mer träffsäker och effektiv i sitt förebyggande arbete.
